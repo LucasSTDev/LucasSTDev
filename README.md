@@ -17,7 +17,7 @@
 
 
   <summary>
-  <h3> 📚 Social Midia</h3>
+  <h3> 📚 Social Midía</h3>
   </summary>
 <div> 
   <a href="https://[instagram.com/rafaballerini](https://www.instagram.com/lucasilva.t/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,12 +39,9 @@
 
 
   <summary>
-  <h3> 📚 Learnings and Hobbies </h3>
+  <h3> 📚 Aprendizado e Hobbies </h3>
   </summary>
   
-* I'm learning about Google Analytics and AWS, architetures, modules, Flutter and more;
-* I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
-* I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
 
 
 
