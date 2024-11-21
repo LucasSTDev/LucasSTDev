@@ -56,11 +56,7 @@
 <hr>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
-
-I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
-
-I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
+Olá, sou estudante de engenharia de computação do IFPB campus Campina Grande.
 
 
 
@@ -77,59 +73,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </div><br>
 
-<br>
-<br>
-<hr>
 
-
-
-
-
-
-
-### On Her Blog (in Portuguese)
-<!-- BLOG:START -->
-- [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
-- [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
-- [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
-- [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
-<!-- BLOG:END -->
-
-### On Her YouTube (in Portuguese)
-<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk"><img width="200px" src="https://i.ytimg.com/vi/LMZ6nu2wDXk/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk">Exemplo de App criado em Flutter para Android</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o"><img width="200px" src="https://i.ytimg.com/vi/mPbHteaCD6o/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o">Exemplo de App criado em Flutter para iOS</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="200px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Conhecendo o jogo Destiny 2</a><br/>Dec 27, 2022</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="200px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
-<!-- YOUTUBE:END -->
-
-### On Her GitHub
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-2. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-3. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-4. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-5. ⬆️ Pushed 2 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-<!--RECENT_ACTIVITY:end-->
-
-
-
-
-<hr>
-
-## Favorit ebooks
-<div align="center">
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-cyWrkZ1Y4gnObYhGu9EAwAAAA%26pid%3DApi&f=1&ipt=47d4acb41e114394971e6af81b8ba95451997bf0bc6bd27c05bba11ec5f287a9&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ufnjUbUSIw5hya5U3hcR_AHaKe%26pid%3DApi&f=1&ipt=66d887e08f568d1bb5fc57967d576d40797fee639bdc723acbff30cda12b1b86&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.b3pAJT41DRn8sBZ-GeKfVQAAAA%26pid%3DApi&f=1&ipt=30d196ff402d8c80576a3b7f349bdf2f4072383bd20679162cedac5ca9420b68&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Kroo7mqB1v5_GOh8xly5OQAAAA%26pid%3DApi&f=1&ipt=b5892e57c744d79700f0c52fee743b151305b908d27f31ccac49cf25b1e7bff9&ipo=images" />
-  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
-</div>
-
-<hr>
 
 
 
