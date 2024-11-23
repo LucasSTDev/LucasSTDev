@@ -66,11 +66,13 @@ Olá, sou estudante de engenharia de computação do IFPB campus Campina Grande.
 
 
 <br>
+<br>
 
-<div>
+
   ## Minha Literatura
-  <div align="center">
+<div align="center">
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://books.google.com.br/books/publisher/content?id=HWewDgAAQBAJ&hl=pt-BR&pg=PA4&img=1&zoom=3&bul=1&sig=ACfU3U2GsF3RfSav8pFSCLcT9HKa7Lbknw&w=1280" />
+   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://books.google.com.br/books/publisher/content?id=YBKSDwAAQBAJ&hl=pt-BR&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U3T5jUcnSuX9_ILakKvTqtOd2xJjg&w=1280" />
 </div>
 
 
