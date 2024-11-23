@@ -64,7 +64,7 @@ Olá, sou estudante de engenharia de computação do IFPB campus Campina Grande.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" />
 </div><br>
 
 
